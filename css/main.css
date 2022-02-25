@@ -3,7 +3,7 @@
     padding:0;
     border:0;
 }
-header,main,aside,footer{
+header,main,aside,div,footer{
     display: block;
     max-width: 90%;
     background-color: rgb(9, 223, 20)!important;
