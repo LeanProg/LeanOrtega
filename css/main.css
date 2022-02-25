@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+main,header,footer{
+    display: inline-block;
+    max-width: 90%;
+}
+body{
+    background-color: rgb(rgb(149, 66, 66), rgb(196, 214, 196), rgb(145, 145, 218));
+}
+article{
+    text-align: center;
+}
