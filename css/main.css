@@ -9,10 +9,20 @@ header,main,article,div,footer{
 
 
 }
-.cuerpo{
+main{
+    max-width:100%;
+    margin: 0 auto;
+}
+body{
+    width: 90%;
     background-color: rgb(23, 210, 243)!important;
+    margin: 0 auto;
+    text-align: center;
 }
 article{
     text-align: center;
     background-color: rgb(71, 60, 173)!important;
+}
+footer{
+    background-color: darkorange;
 }
