@@ -3,13 +3,15 @@
     padding:0;
     border:0;
 }
-main,header,footer{
+main,header,aside,footer{
     display: inline-block;
     max-width: 90%;
+    background-color: rgb(9, 223, 20)!important;
 }
-body{
-    background-color: rgb(238, 17, 17)!important;
+cuerpo{
+    background-color: rgb(23, 210, 243)!important;
 }
 article{
     text-align: center;
+    background-color: rgb(71, 60, 173)!important;
 }
