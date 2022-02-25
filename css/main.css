@@ -6,7 +6,8 @@
 header,main,article,div,footer{
     display: block;
     max-width: 90%;
-    background-color: rgb(9, 223, 20)!important;
+
+
 }
 .cuerpo{
     background-color: rgb(23, 210, 243)!important;
