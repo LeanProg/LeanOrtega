@@ -3,12 +3,12 @@
     padding:0;
     border:0;
 }
-main,header,aside,footer{
-    display: inline-block;
+header,main,aside,footer{
+    display: block;
     max-width: 90%;
     background-color: rgb(9, 223, 20)!important;
 }
-cuerpo{
+.cuerpo{
     background-color: rgb(23, 210, 243)!important;
 }
 article{
