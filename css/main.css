@@ -126,7 +126,7 @@ nav {
   }
   #indicator {
     position: absolute;
-    left: 5%;
+    left:10%;
     bottom: 0;
     width: 30px;
     height: 3px;
@@ -145,11 +145,12 @@ nav {
   }
   
   nav a:nth-child(1):hover ~ #indicator {
+  
     background: linear-gradient(130deg, yellow, red);
   }
   
   nav a:nth-child(2):hover ~ #indicator {
-    left: 21.5%;
+    left: 40%;
     background: linear-gradient(130deg, #00e2ff, #89ff00);
   }
   
@@ -182,4 +183,8 @@ nav {
   header h1, header nav{
       display:inline-block;
       vertical-align: top;
+  }
+
+  @media screen (576px){
+    
   }
